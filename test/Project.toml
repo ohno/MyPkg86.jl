@@ -1,0 +1,6 @@
+[deps]
+MyPkg86 = "9d86a0d4-c591-4c4d-b368-b2fd4e807c6d"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1"
